@@ -1,0 +1,1 @@
+alert("Gostaria de comprar uma caneca personalizada?");
