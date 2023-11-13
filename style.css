@@ -4,9 +4,13 @@ h1{color: rgb(199, 19, 19);}
 h2{text-align: center;}
 h2{color: rgb(15, 116, 57);}
 
-#links{text-align: center;}
 #links{font-size: medium;}
 
+#link1{margin-left: 5%;}
+
+#link2{text-align: center;}
+
+#link3{margin-left: 70%;}
 
 
 p{text-align: right;}
