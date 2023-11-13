@@ -5,9 +5,10 @@ h2{text-align: center;}
 h2{color: rgb(15, 116, 57);}
 
 
-#links{font-size: medium;}
+#links{text-align: center;}
+#links{font-size: large;}
 
-#links2{font-size: large;}
+#links2{align-items: center;}
 
 
 p{text-align: right;}
